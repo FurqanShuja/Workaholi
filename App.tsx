@@ -1,4 +1,3 @@
-//Furqan
 import React, { useState, useEffect, useRef } from 'react';
 import { UserSettings, AppView, SessionState, Participant, AvatarId, PingEvent } from './types';
 import { AVATARS, EMOJIS, MAX_USERS } from './constants';
