@@ -1,0 +1,7 @@
+{
+  "name": "Workaholi latest",
+  "description": "A futuristic, gamified co-working space for deep focus.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
